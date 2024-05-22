@@ -19,7 +19,7 @@
 
 ### 1. Cоздание склада.
 
-![stock](https://github.com/Yasoqp/price-processor/blob/new_version/readmeIcon/stock.png)
+![stock](https://github.com/Yasuoqp/price-processor/blob/new_version/readmeIcon/stock.png)
 
 > `Склад поставщика` - это обознанечение организаций которые ежедневнно скидывают прайсы акктуальных позиций.
 
@@ -44,7 +44,7 @@
 
 > `Да, у вас возник вопрос почему ты решаешь эти проблемы на стороне клиента т.e во фронте ведь это должен был делать `backend` на тот момент я был довольно плохо знаком с серьезным `WEB` не знал все нюансы и тонкости, метологии и так далее, Это был мой первый проект, так как у меня не было наставника а задачи ставил человек без опыта в айти и вообще разработки задачи были примерно такого плана - в 1С так! нам нужно так же :) ` 
 
-![upload](https://github.com/Yasoqp/price-processor/blob/new_version/readmeIcon/uploadStock.png)
+![upload](https://github.com/Yasuoqp/price-processor/blob/new_version/readmeIcon/uploadStock.png)
 
 ### 3. Переход в редактор позиций после загрузки
   - На двойной клик в таблице по позиции открывает `popup` окно с формой для изменения 
@@ -52,12 +52,12 @@
     - Справочник Это как раз та причина почему нельзя старые заменять на новые 
   - По завершению так же закрывается и обновляется `refetch` текущего склада
 
-![redactor](https://github.com/Yasoqp/price-processor/blob/new_version/readmeIcon/product-info.png)
-![directory](https://github.com/Yasoqp/price-processor/blob/new_version/readmeIcon/product-derictory.png)
+![redactor](https://github.com/Yasuoqp/price-processor/blob/new_version/readmeIcon/product-info.png)
+![directory](https://github.com/Yasuoqp/price-processor/blob/new_version/readmeIcon/product-derictory.png)
 
 ### 4. Справочники
 
-![directory](https://github.com/Yasoqp/price-processor/blob/new_version/readmeIcon/directory.png)
+![directory](https://github.com/Yasuoqp/price-processor/blob/new_version/readmeIcon/directory.png)
 
 > При нажатии на справочник ниже показывает все позиции из разных складов привязанные к выбранному справочнику
 
@@ -71,4 +71,4 @@
     
 > После Выгрузки менеджеры формируют собственный прайс из данных полученных от каждой организации для составления собственного предложения.
 
-![exel](https://github.com/Yasoqp/price-processor/blob/new_version/readmeIcon/exel.png)
+![exel](https://github.com/Yasuoqp/price-processor/blob/new_version/readmeIcon/exel.png)
